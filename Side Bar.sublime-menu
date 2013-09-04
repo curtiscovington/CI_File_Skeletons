@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "New CI_Controller",
+        "id": "ci_controller",
+        "command": "controller_name_prompt"
+    },
+    {
+        "caption": "New CI_Model",
+        "id": "ci_model",
+        "command": "model_name_prompt"
+    },
+    {
+        "caption": "New CI_Migration",
+        "id": "ci_migration",
+        "command": "migration_name_prompt"
+    }
+]

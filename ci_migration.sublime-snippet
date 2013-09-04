@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Migration_${1:migration} extends CI_Migration {
+
+	public function up() 
+	{
+
+	}
+
+	public function down() 
+	{
+
+	}
+
+}
+
+/* End of file ${2:migration}.php */
+/* Location: ./application/migrations/${2:migration}.php */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
